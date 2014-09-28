@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckinApp_Fragments_Tabs", "CheckinApp_Fragments_Tabs\CheckinApp_Fragments_Tabs.csproj", "{E2688907-FE92-47F1-96FF-3694EA5F09FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2688907-FE92-47F1-96FF-3694EA5F09FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2688907-FE92-47F1-96FF-3694EA5F09FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2688907-FE92-47F1-96FF-3694EA5F09FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2688907-FE92-47F1-96FF-3694EA5F09FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CheckinApp_Fragments_Tabs\CheckinApp_Fragments_Tabs.csproj
+	EndGlobalSection
+EndGlobal
